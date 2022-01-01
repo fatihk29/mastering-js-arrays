@@ -8,3 +8,12 @@ Accessing Characters in a String
 
 # 28
 Using Split to Create an Array from a String
+
+# 29
+Gathering Arguments into an Array
+
+# 30
+Accessing Array Values with a Statement
+
+# 31
+Converting Object Propertis to Arrays
