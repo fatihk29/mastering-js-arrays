@@ -16,4 +16,8 @@ Gathering Arguments into an Array
 Accessing Array Values with a Statement
 
 # 31
-Converting Object Propertis to Arrays
+Converting Object Properties to Arrays
+
+
+# 32 and 33
+Exercise 4
