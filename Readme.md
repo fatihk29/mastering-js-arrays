@@ -1,28 +1,12 @@
-#
+Mastering JavaScript Arrays
 
-Iterating Over an Array Using Array Methods
+# section 1 Intro
 
-## 47
-Using the ForEach method
+# section 2 Basics of Arrays
 
-
-## 48
+# section 3 Iterating an Arrays
 
 
-## 49
+ # section 4 Array-like Collections
 
-## 50
-
-## 51
-
-
-## 52
-
-
-## 53
-
-
-
-## 54
-
-
+ # section 5 Array Methods which Mutates 
