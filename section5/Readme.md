@@ -1,25 +1,28 @@
-# 36
+## 36
 
 Reversing the Elements in Array
 
-# 37
+## 37
 
 Sorting the Elements in Array
 
-## a
+## 38
+Sorting and Array of Objects
 
-#
+## 39
 
-#
+## 40
 
-#
+## 41
+Understanding the Array Prototype
 
-#
+## 42
+Cloning an Array
 
-#
+##
 
-#
+##
 
-#
+##
 
-#
+##
