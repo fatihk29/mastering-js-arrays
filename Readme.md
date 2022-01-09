@@ -13,3 +13,6 @@
 ## section 7 Multidimensional Arrays
 
 ## section 8 Combining Arrays
+
+
+## section 9 Methods for Seartching for Values in Arrays
