@@ -16,5 +16,6 @@
 
 ## section 8 Combining Arrays
 
-
 ## section 9 Methods for Seartching for Values in Arrays
+
+## section 10 using Array-like Collections

@@ -7,3 +7,7 @@
 ### 7 Reading and Writing Array elements
 
 ### 8 Sparse Array
+
+### 9 Working with the Length Property
+
+### 10 Deleting Array Elements
