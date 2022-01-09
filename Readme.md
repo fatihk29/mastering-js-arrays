@@ -10,6 +10,8 @@
 
 ## section 5 Array Methods which Mutates
 
+## section 6 Iterating Arrays Using Array Methods
+
 ## section 7 Multidimensional Arrays
 
 ## section 8 Combining Arrays
