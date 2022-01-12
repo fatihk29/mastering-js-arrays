@@ -11,3 +11,11 @@ for (let key in array1) {
 for (let value of array1) {
   console.log("value", value);
 }
+
+let total = 0;
+
+for (let value of array1) {
+  total += value;
+}
+
+console.log("total=>", total);
