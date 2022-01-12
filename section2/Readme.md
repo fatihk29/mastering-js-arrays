@@ -11,3 +11,10 @@
 ### 9 Working with the Length Property
 
 ### 10 Deleting Array Elements
+
+
+### 11 push and pop
+
+### 12 unshift shift
+
+### 13 exercise
